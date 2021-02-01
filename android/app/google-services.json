@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "268806249807",
+    "project_id": "assignment-659f1",
+    "storage_bucket": "assignment-659f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268806249807:android:1f5b555e658ba6d120393a",
+        "android_client_info": {
+          "package_name": "ankitwadhwa.pravana_eet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268806249807-53sfiga4du864qn8dlihqoeaoht5hlv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ankitwadhwa.pravana_eet",
+            "certificate_hash": "f1055a283b23e03e06c653b20c0cc96c43cf82b4"
+          }
+        },
+        {
+          "client_id": "268806249807-nk5i30n16vig7u2u70a0aq3ajh79451c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD23R5gwJgVz3jS40XcmWdE3_jy0f-iJzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268806249807-nk5i30n16vig7u2u70a0aq3ajh79451c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
